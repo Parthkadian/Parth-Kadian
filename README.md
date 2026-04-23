@@ -27,7 +27,7 @@ Python • Machine Learning • NLP • Hugging Face • FastAPI • Streamlit �
 ---
 
 ### 📫 Reach Me
-- Email: yourname@email.com  
+- Email: parthkadian2006@email.com  
 - LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
